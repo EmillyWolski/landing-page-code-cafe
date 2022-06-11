@@ -1,4 +1,4 @@
-# Landing page Code Café ✔
+# Landing page Code Café ☕
 Esse projeto faz parte das atividades práticas do curso de Desenvolvimento Web, o DevQuest. 
 
 ## Tecnologias
@@ -20,8 +20,7 @@ Esse projeto faz parte das atividades práticas do curso de Desenvolvimento Web,
 Ao desenvolver essa Landing page, foram postos em prática os conhecimentos aprendidos nos módulos de HTML e CSS intermediários. <br><br>
 As diferentes tags semânticas melhoraram de forma significativa os códigos. Um destaque é a aplicação da <strong>responsividade<strong> no layout, que proporcionou muita qualidade tanto na versão desktop, quanto na mobile.
 
-## A página
-<img src="./" alt="Landing page finalizada">
+
   
   
   
